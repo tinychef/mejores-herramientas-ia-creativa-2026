@@ -8,7 +8,7 @@ Esta guía no intenta cubrir "todas las herramientas de IA creativa que existen"
 
 ## Cómo armamos esta comparativa
 
-Esto no es un scan automático ni una lista comprada. Las siete herramientas de acá son las que TonyCiencia tiene con relación de partner **activa** ahora mismo — a propósito dejamos afuera programas pendientes de aprobación o vencidos, aunque estén en el radar. Eso significa que cada link de abajo corresponde a algo que se probó o se sigue de cerca en el uso real del canal, no a un texto genérico copiado de la página de ventas de cada marca. Es una limitación tanto como un criterio: si tu herramienta favorita no está, probablemente sea porque todavía no forma parte de ese stack activo, no porque la hayamos descartado.
+Esto no es un scan automático ni una lista comprada. Las ocho herramientas de acá son las que TonyCiencia tiene con relación de partner **activa** ahora mismo — a propósito dejamos afuera programas pendientes de aprobación o vencidos, aunque estén en el radar. Eso significa que cada link de abajo corresponde a algo que se probó o se sigue de cerca en el uso real del canal, no a un texto genérico copiado de la página de ventas de cada marca. Es una limitación tanto como un criterio: si tu herramienta favorita no está, probablemente sea porque todavía no forma parte de ese stack activo, no porque la hayamos descartado.
 
 ## Comparativa rápida
 
@@ -21,6 +21,7 @@ Esto no es un scan automático ni una lista comprada. Las siete herramientas de 
 | <img src="https://www.google.com/s2/favicons?domain=adcreative.ai&sz=128" width="24"> | **AdCreative.ai** | Creativos publicitarios listos para pautar | [Probar →](https://free-trial.adcreative.ai/3fn5zxosagaz) |
 | <img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128" width="24"> | **Eleven Labs** | Voz — clonación y narración realista | [Probar →](https://try.elevenlabs.io/8w0jtxk54bd0) |
 | <img src="https://www.google.com/s2/favicons?domain=murf.ai&sz=128" width="24"> | **Murf AI** | Voiceover para video/presentaciones | [Probar →](https://get.murf.ai/e5a3jr17jump) |
+| <img src="https://www.google.com/s2/favicons?domain=fish.audio&sz=128" width="24"> | **Fish Audio** | Clonación de voz open-source, más barata por volumen | [Probar →](https://fish.audio/?fpr=ai-audiotop) |
 
 ---
 
@@ -38,9 +39,11 @@ Ese mismo salto de curiosidad a producción es lo que le pasó a **OpenArt AI**:
 
 **AdCreative.ai** ataca un problema todavía más puntual que "generar una imagen": la salida no es "algo lindo", es un creativo con formato y estructura pensados específicamente para funcionar en Meta o Google Ads. Si tu cuello de botella real es producir variaciones de anuncios rápido para testear, esta herramienta es más directa que armar ese flujo a mano con un generador genérico y después adaptar cada imagen al formato de la plataforma.
 
-## Voz: clonación vs. narración
+## Voz: clonación vs. narración vs. volumen
 
-El último tramo de la cadena de producción es el audio, y ahí también hay dos problemas distintos disfrazados del mismo nombre. **Eleven Labs** es el estándar cuando necesitás que la voz suene indistinguible de una persona real — clonación de voz, doblaje, narración con matices emocionales. **Murf AI** apunta a un caso más específico y menos exigente: voiceover rápido y prolijo para video corporativo o presentaciones, sin necesariamente buscar el máximo realismo posible, sino consistencia y velocidad de producción cuando el objetivo es terminar el video, no ganar un premio de doblaje.
+El último tramo de la cadena de producción es el audio, y ahí hay tres problemas distintos disfrazados del mismo nombre. **Eleven Labs** es el estándar cuando necesitás que la voz suene indistinguible de una persona real — clonación de voz, doblaje, narración con matices emocionales. **Murf AI** apunta a un caso más específico y menos exigente: voiceover rápido y prolijo para video corporativo o presentaciones, sin necesariamente buscar el máximo realismo posible, sino consistencia y velocidad de producción cuando el objetivo es terminar el video, no ganar un premio de doblaje.
+
+**Fish Audio** entra por un tercer costado: motor de voz de base open-source, con clonación que se acerca bastante a la calidad de Eleven Labs pero a un costo por minuto/carácter bastante más bajo. Tiene sentido cuando el cuello de botella no es la calidad — ya la conseguiste con cualquiera de las dos anteriores — sino el volumen: proyectos que generan muchísimo audio (doblaje de series de videos, audiolibros, contenido en varios idiomas) donde la diferencia de precio por minuto termina pesando más que un matiz extra de realismo.
 
 ## Preguntas frecuentes
 
@@ -53,10 +56,13 @@ No, resuelve tareas puntuales y repetitivas (fondo, retoque, upscale) mucho más
 **¿La voz de Eleven Labs se nota que es IA?**
 En la mayoría de los casos de uso (narración, doblaje, contenido) no, sobre todo con las voces clonadas de buena calidad. Para casos muy exigentes (actuación con matices complejos) todavía hay diferencia perceptible, pero cada vez menos.
 
+**¿Cuándo conviene Fish Audio en vez de Eleven Labs?**
+Cuando el volumen de audio que necesitás generar es alto y el precio por minuto empieza a pesar en el presupuesto. Para un uso puntual o donde la calidad tiene que ser máxima sin excepción, Eleven Labs sigue siendo la apuesta más segura.
+
 ---
 
 ### Sobre este repo
 
 Comparativa mantenida por [TonyCiencia](https://youtube.com/@tonyciencia). Los links son de afiliado — no te cuesta nada extra entrar por acá y ayuda a sostener el canal. Solo se listan herramientas con relación de partner activa.
 
-Última actualización: 2026-08.
+Última actualización: 2026-08-17.
