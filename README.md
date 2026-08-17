@@ -1,5 +1,7 @@
 # IA generativa para imagen, video y voz: guía práctica 2026
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Hace dos años, "IA generativa" significaba probar una demo rota de un modelo experimental y esperar que no se cayera el servidor. Hoy es infraestructura de producción: hay estudios chicos sacando B-roll que antes hubiera necesitado un rodaje entero, y equipos de marketing generando cientos de variaciones de creativo sin tocar una cámara ni un banco de fotos. El salto no fue "la IA mejoró" en abstracto — fue que cada categoría se especializó. Y ahí está la trampa: como todas usan la misma palabra de moda, es fácil terminar pagando tres suscripciones que hacen el trabajo de una, o peor, ninguna hace bien el trabajo que necesitás porque eran para otra cosa.
 
 Esta guía no intenta cubrir "todas las herramientas de IA creativa que existen" — eso ya es una lista inútil de tan larga. Separa por lo que realmente vas a producir: video generativo, edición de imagen, publicidad, o voz. Si sabés qué necesitás producir, sabés en qué sección mirar.
